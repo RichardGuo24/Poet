@@ -1,6 +1,6 @@
 # Poetry Explorer - Angular Application
 
-A beautiful Angular application that integrates with the [Poetry Database API](https://poetrydb.org/) to explore and discover poems.
+An Angular application that integrates with the [Poetry Database API](https://poetrydb.org/) to explore and discover poems. VISIT AT https://poet-richard-guos-projects.vercel.app/
 
 ## Features
 
