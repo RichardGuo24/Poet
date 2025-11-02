@@ -7,10 +7,7 @@ A beautiful Angular application that integrates with the [Poetry Database API](h
 - **Search by Author** - Find all poems by your favorite poets
 - **Search by Title** - Discover specific poems you're looking for
 - **Random Poem** - Get surprised with a random poem
-- **Beautiful UI** - Modern, responsive design with smooth animations
-- **Error Handling** - Comprehensive error messages for failed requests
-- **Responsive Design** - Works seamlessly on desktop, tablet, and mobile
-
+  
 ## Installation
 
 1. Clone the repository:
